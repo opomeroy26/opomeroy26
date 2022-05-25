@@ -17,3 +17,8 @@ Skills: JavaScript / React / Ruby / Rails / ActiveRecord/ SQL / PostgreSQL/ HTML
     src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
   />
 </a>
+
+### Projects
+- [Coffee Shop Around] (https://github.com/opomeroy26/Coffee-Shop-Around) Community-driven, coffee shop review site with real-time updates, map location, searchable listings and traits, and in-app bookmarking tool.
+- [Citinerary] (https://github.com/opomeroy26/Citinerary) Activity planner app, with filtering, bookmarking options, and customizable activities. 
+- [OK Thrift] (https://github.com/opomeroy26/OK-Thrift) Online clothing thrift store with a search, filtering tool, and bookmark option, where users can browse items to purchase and list items to sell. 
