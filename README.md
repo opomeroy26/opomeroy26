@@ -7,7 +7,8 @@
 - 🌱 I’m currently learning [JavaScript Algorithms and Data Structures](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
 - 👯 I’m looking to collaborate on anything!
 - 📫 How to reach me: opomeroy26@gmail.com
-- 📝 My blog: https://dev.to/opomeroy26
+- 📝 [Resume](https://github.com/opomeroy26/opomeroy26/files/8781384/Olivia.Pomeroy.s.Resume.3.docx)
+
 
 Skills: JavaScript / React / Ruby / Rails / ActiveRecord/ SQL / PostgreSQL/ HTML / CSS / Bootstrap / Material UI / Git / Heroku 
 
