@@ -8,6 +8,7 @@ My name is Olivia Pomeroy and I'm a Fullstack Software Engineer. With a backgrou
 
 - 🌱 I’m currently learning [JavaScript Algorithms and Data Structures](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
 - 👯 I’m looking to collaborate on anything!
+- 🛠 I'm looking forward to learning TypeScript and Redux.
 - 📫 How to reach me: opomeroy26@gmail.com
 - 📝 [Resume](https://github.com/opomeroy26/opomeroy26/files/8781384/Olivia.Pomeroy.s.Resume.3.docx)
 
