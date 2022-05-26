@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Olivia Pomeroy and I'm a Fullstack Software Engineer. With a background in Psychology and working with high-risk adolescents, I became passionate about programming after repetative frustrating experiences using electronic medical record software. It was then I started loving coding, as it allowed me to incorporate creativity and problem solving to create a better user experience!
+
 <!--
 **opomeroy26/opomeroy26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
