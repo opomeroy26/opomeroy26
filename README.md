@@ -13,6 +13,7 @@ My name is Olivia Pomeroy and I'm a Fullstack Software Engineer. With a backgrou
 - 📝 [Resume](https://github.com/opomeroy26/opomeroy26/files/8781384/Olivia.Pomeroy.s.Resume.3.docx)
 
 
+
 Skills: JavaScript / React / Ruby / Rails / ActiveRecord/ SQL / PostgreSQL/ HTML / CSS / Bootstrap / Material UI / Git / Heroku 
 
 
